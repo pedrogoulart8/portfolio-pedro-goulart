@@ -1,0 +1,40 @@
+@use '../variables'
+@use '../mixins'
+
+
+.project-container
+    margin-bottom: 1rem
+   
+
+    .project-grid
+        display: flex
+        flex-wrap: wrap
+        gap: 1.5rem
+        
+
+        .project-card
+            overflow: hidden
+            border: 3px solid #000
+            @include mixins.center
+            gap: 1rem
+            padding: 1rem
+            border: 1px solid #333
+            width: 45%
+            border-radius: variables.$card-border-radius
+
+           
+
+            .project-info
+                a
+                    :hover
+                        transform: scale(1.1)
+
+                    img
+                        max-width: 100%
+                        border-radius: variables.$container-border-radius
+
+
+        h3
+            color: variables.$text-color
+            text-align: center
+            margin-bottom: 1rem
