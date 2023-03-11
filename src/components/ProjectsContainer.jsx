@@ -6,6 +6,8 @@ import climatempo from '../img/climatempo.png'
 import netflix from '../img/netflix.png'
 import calculadora from '../img/calc.png'
 import cadastro from '../img/sitecadastro.png'
+import todolist from '../img/todolist.png'
+
 
 
 
@@ -16,7 +18,8 @@ const projects = [
     { id: "climatempo", name: "Clima Tempo", image: climatempo, link: "https://pedrogoulart8.github.io/API-Clima-Tempo/" },
     { id: "netflix", name: "Netflix", image: netflix, link: "https://pedrogoulart8.github.io/Clone-streaming-ntfix/" },
     { id: "Calculadora", name: "Calculadora", image: calculadora, link: "https://pedrogoulart8.github.io/Projeto-Calculadora-JS/" },   
-    { id: "cadastro", name: "Simulação Cadastro", image: cadastro, link: "https://pedrogoulart8.github.io/API-Cadastro-de-Clientes/" },   
+    { id: "cadastro", name: "Simulação Cadastro", image: cadastro, link: "https://pedrogoulart8.github.io/API-Cadastro-de-Clientes/" },
+    { id: "todo", name: "To Do List", image: todolist, link: "https://pedrogoulart8.github.io/to-do-list-react/" },   
     
 
 
