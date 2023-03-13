@@ -11,7 +11,7 @@ const InformationContainer = () => {
             <div className="info-card">
                 <AiFillPhone id="phone-icon"/>
                 <div>
-                    <h3>Telefone</h3>
+                    <h3>Telefoneeeeeeee</h3>
                     <p>(21) 99855-2748</p>
                 </div>
             </div>
