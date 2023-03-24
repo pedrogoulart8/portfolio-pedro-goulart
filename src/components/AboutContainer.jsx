@@ -7,6 +7,11 @@ const AboutContainer = () => {
         <section className='about-container'>
             <h2>Sobre</h2>
             <p>
+                Olá, meu nome é Pedro Goulart. <br/>
+                Atualmente trabalho com Marketing Digital, mas estou buscando uma transição de carreira para Desenvolvedor Front-End.
+            </p>
+            <br/>
+            <p>
                 Sou formado em Administração de empresas e atualmente atuo como freelancer, criando sites e anuncios online para meus clientes (Tráfego pago).
             </p>
             <br/>
