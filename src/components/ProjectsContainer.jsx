@@ -8,6 +8,7 @@ import calculadora from '../img/calc.png'
 import cadastro from '../img/sitecadastro.png'
 import todolist from '../img/todolist.png'
 import filmes from '../img/filmes1.png'
+import secretportfolio from '../img/secretportfolio.png'
 
 
 
@@ -16,12 +17,14 @@ const projects = [
 
     { id: "academia", name: "Academia HardCore", image: academia, link: "https://pedrogoulart8.github.io/Academia-Hardcore/" },
     { id: "login", name: "Tela Login", image: login, link: "https://pedrogoulart8.github.io/Tela-de-Login-com-POO/" },
-    { id: "filmes", name: "Movies Library", image: filmes, link: "https://pedro-goulart-api-filmes-react.vercel.app/" },   
+    { id: "filmes", name: "Movies Library", image: filmes, link: "https://pedro-goulart-api-filmes-react.vercel.app/" },  
+    { id: "secret", name: "Secret Word", image: secretportfolio, link: "https://pedrogoulart8.github.io/jogo-secret-word/" }, 
     { id: "climatempo", name: "Clima Tempo", image: climatempo, link: "https://pedrogoulart8.github.io/API-Clima-Tempo/" },
     { id: "todo", name: "To Do List", image: todolist, link: "https://pedrogoulart8.github.io/to-do-list-react/" },  
     { id: "netflix", name: "Netflix", image: netflix, link: "https://pedrogoulart8.github.io/Clone-streaming-ntfix/" },
     { id: "Calculadora", name: "Calculadora", image: calculadora, link: "https://pedrogoulart8.github.io/Projeto-Calculadora-JS/" },   
     { id: "cadastro", name: "Simulação Cadastro", image: cadastro, link: "https://pedrogoulart8.github.io/API-Cadastro-de-Clientes/" }
+    
 
 ]
 
