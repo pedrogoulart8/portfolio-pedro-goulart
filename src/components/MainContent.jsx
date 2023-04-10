@@ -6,14 +6,14 @@ import '../styles/components/maincontent.sass'
 
 const MainContent = () => {
 
-    return(
+    return (
 
         <main id='main-content'>
-            <AboutContainer/>
-            <br/><br/>
-            <TechnologiesContainer/>
-            <br/><br/>
-            <ProjectsContainer/>
+            <AboutContainer />
+            <br /><br />
+            <TechnologiesContainer />
+            <br /><br />
+            <ProjectsContainer />
         </main>
 
     )
