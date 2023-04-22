@@ -1,0 +1,29 @@
+#social-networks {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  gap: 2rem;
+  margin: 1.5rem 0;
+}
+#social-networks .social-btn {
+  padding: 1rem;
+  background-color: #1d1d1d;
+  border-radius: 5px;
+  color: #333;
+  font-size: 1.3rem;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+#social-networks #linkedin {
+  color: #007281;
+}
+#social-networks #github {
+  color: #111;
+}
+#social-networks :hover {
+  background: linear-gradient(90deg, #0068b5 0%, #0e70bb 100%);
+}
+#social-networks :hover > svg {
+  color: #fff;
+}/*# sourceMappingURL=socialnetworks.css.map */
