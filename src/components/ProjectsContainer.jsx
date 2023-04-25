@@ -3,9 +3,7 @@ import '../styles/components/projectscontainer.sass'
 import academia from '../img/academia.png'
 import login from '../img/login.png'
 import climatempo from '../img/climatempo.png'
-import netflix from '../img/netflix.png'
 import calculadora from '../img/calc.png'
-import cadastro from '../img/sitecadastro.png'
 import todolist from '../img/todolist.png'
 import filmes from '../img/filmes1.png'
 import secretportfolio from '../img/secretportfolio.png'
@@ -23,11 +21,8 @@ const projects = [
     { id: "secret", name: "Secret Word", image: secretportfolio, link: "https://pedrogoulart8.github.io/jogo-secret-word/" }, 
     { id: "climatempo", name: "Clima Tempo", image: climatempo, link: "https://pedrogoulart8.github.io/API-Clima-Tempo/" },
     { id: "todo", name: "To Do List", image: todolist, link: "https://pedrogoulart8.github.io/to-do-list-react/" },  
-    { id: "netflix", name: "Netflix", image: netflix, link: "https://pedrogoulart8.github.io/Clone-streaming-ntfix/" },
     { id: "Calculadora", name: "Calculadora", image: calculadora, link: "https://pedrogoulart8.github.io/Projeto-Calculadora-JS/" },   
-    { id: "cadastro", name: "Simulação Cadastro", image: cadastro, link: "https://pedrogoulart8.github.io/API-Cadastro-de-Clientes/" }
-    
-
+   
 ]
 
 const ProjectsContainer = () => {

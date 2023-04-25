@@ -7,22 +7,22 @@ const AboutContainer = () => {
         <section className='about-container'>
             <h2>Sobre</h2>
             <p>
-                Olá, meu nome é Pedro Goulart. <br/>
-                Atualmente trabalho com Marketing Digital, mas estou buscando uma transição de carreira para Desenvolvedor Front-End.
+                Olá! <br />
+                Meu nome é Pedro Goulart e sou apaixonado por tecnologia e programação, especialmente na área de desenvolvimento Front-end.
             </p>
-            <br/>
+            <br />
             <p>
-                Sou formado em Administração de empresas e atualmente atuo como freelancer, criando sites e anuncios online para meus clientes (Tráfego pago).
+                Formado em Administração de empresas, estou buscando uma transição de carreira para me dedicar integralmente à programação. Atualmente, trabalho como freelancer, criando sites para e-commerce, landings pages e anúncios online.
             </p>
-            <br/>
+            <br />
             <p>
-                Após concluir um curso de Web Design / Front-end, descobri minha verdadeira paixão e desde então procuro uma primeira oportunidade na área de programação.
+                Meu portfólio contém uma seleção dos meus projetos mais recentes, onde busco aplicar meus conhecimentos em soluções para os problemas do nosso cotidiano.
             </p>
-            <br/>
+            <br />
             <p>
-            Nos ultimos meses venho aprimorando minhas habilidades em tecnologias voltadas ao desenvolvimento Front-end, principalmente JavaScript e React.
+                Se você está procurando um profissional dedicado e atualizado, entre em contato comigo. Estou aberto a novos desafios e adoraria contribuir com o sucesso da sua empresa.
             </p>
-            
+
         </section >
 
     )
