@@ -17,7 +17,7 @@ const projects = [
     { id: "blog", name: "Mini Blog", image: miniblog, link: "https://pedrogoulart8.github.io/miniblog-react/" },
     { id: "academia", name: "Academia HardCore", image: academia, link: "https://pedrogoulart8.github.io/Academia-Hardcore/" },
     { id: "login", name: "Tela Login", image: login, link: "https://pedrogoulart8.github.io/Tela-de-Login-com-POO/" },
-    { id: "filmes", name: "Movies Library", image: filmes, link: "https://pedro-goulart-api-filmes-react.vercel.app/" },  
+    { id: "filmes", name: "Movies Library", image: filmes, link: "https://pedrogoulart8.github.io/movies-react/" },  
     { id: "secret", name: "Secret Word", image: secretportfolio, link: "https://pedrogoulart8.github.io/jogo-secret-word/" }, 
     { id: "climatempo", name: "Clima Tempo", image: climatempo, link: "https://pedrogoulart8.github.io/API-Clima-Tempo/" },
     { id: "todo", name: "To Do List", image: todolist, link: "https://pedrogoulart8.github.io/to-do-list-react/" },  
