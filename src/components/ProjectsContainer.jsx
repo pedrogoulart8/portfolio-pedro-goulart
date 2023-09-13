@@ -8,6 +8,7 @@ import todolist from '../img/todolist.png'
 import filmes from '../img/filmes1.png'
 import secretportfolio from '../img/secretportfolio.png'
 import miniblog from '../img/miniblog.png'
+import stock2 from '../img/stock2.png'
 
 
 
@@ -15,6 +16,7 @@ import miniblog from '../img/miniblog.png'
 const projects = [
 
     { id: "blog", name: "Mini Blog", image: miniblog, link: "https://pedrogoulart8.github.io/miniblog-react/" },
+    { id: "estoque", name: "Controle de Estoque", image: stock2, link: "https://projeto-estoque-pedrogoulart8.vercel.app/" },
     { id: "academia", name: "Academia HardCore", image: academia, link: "https://pedrogoulart8.github.io/Academia-Hardcore/" },
     { id: "login", name: "Tela Login", image: login, link: "https://pedrogoulart8.github.io/Tela-de-Login-com-POO/" },
     { id: "filmes", name: "Movies Library", image: filmes, link: "https://pedrogoulart8.github.io/movies-react/" },  

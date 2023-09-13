@@ -8,11 +8,12 @@ const AboutContainer = () => {
             <h2>Sobre</h2>
             <p>
                 Olá! <br />
-                Meu nome é Pedro Goulart e sou um desenvolvedor Front-End apaixonado por tecnologia.
+                Meu nome é Pedro Goulart e eu sou um desenvolvedor Front-End apaixonado por tecnologia. Meu propósito é fazer parte de uma equipe onde possa aprender constantemente e crescer ao lado de desenvolvedores mais experientes.
             </p>
             <br />
             <p>
-                Recentemente consegui minha primeira experiência como Desenvolvedor Júnior, onde me dediquei a criar temas personalizados para WordPress utilizando <strong>PHP, JavaScript, HTML e SCSS.</strong>
+                Iniciei minha carreira como Desenvolvedor Front-end em 2022 e, desde então, tenho me dedicado a aprimorar minhas habilidades em tecnologias como:<br/> 
+                <strong>React, JavaScript, PHP, WordPress, HTML, CSS(SCSS), Bootstrap, Node.js, Git, GitHub</strong>
             </p>
             <br />
             <p>

@@ -8,7 +8,8 @@ import {
     DiWordpress,
     DiGit,
     DiGoogleAnalytics,
-    DiGithubBadge
+    DiGithubBadge,
+    DiPhp
 } from 'react-icons/di'
 
 import '../styles/components/technologiescontainer.sass'
@@ -18,6 +19,7 @@ const technologies = [
 
     {id: "react", name: "React", icon: <DiReact/>},
     {id: "js", name: "JavaScript", icon: <DiJsBadge/>},
+    {id: "php", name: "php", icon: <DiPhp/>},
     {id: "bootstrap", name: "Bootstrap", icon: <DiBootstrap/>},
     {id: "sass", name: "Sass", icon: <DiSass/>},
     {id: "html", name: "HTML5", icon: <DiHtml5/>},
